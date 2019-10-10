@@ -1,7 +1,7 @@
 --on idle：常駐監視で、指定アプリをの生き死にをチェック>終了していたら　指定アプリを立ち上げる：
 --ファイル→書き出し→アプリケーション：ハンドラの実行後に終了しないにチェック：できたアプリケーションを起動項目に入れる
 
---bynorikomatsumoto 2013
+--byNorikomatsUMoto 2013
 on idle
 	try
 		tell application "Finder"
